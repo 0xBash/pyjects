@@ -1,11 +1,15 @@
 <p align="middle"> <h1 align="middle">Rᴇᴀᴅᴍᴇ​​​​​ ( ͡👁️ ͜ʖ ͡👁️)</h1> </p>
 
-Ｌａｙｅｒ ２ Ａｔｔａｃｋｓ: ARP, DNS spoofing, MAC Changer.
+# Network Based Attacks
 
-Ｓｃａｎｎｅｒ: Network Scanner.
+<p>
+Lᴀʏᴇʀ  2: ARP, DNS spoofing, MAC Changer
 
-Ｓｎｉｆｆｅｒ: Packet Sniffer.
+sᴄᴀɴɴᴇʀ: Network Scanner 🖨️
+  
+sɴɪғғᴇʀ: Packet Sniffer 🐽
 
-Ｉｎｔｅｒｃｅｐｔｏｒ: File Interceptor.
+Iɴᴛᴇʀᴄᴇᴘᴛᴏʀ: File Interceptor 📁
 
-Ｃｒｙｐｔｏｇｒａｐｈｙ: Caeser Cipher.
+ᴄʀʏᴘᴛᴏɢʀᴀᴘʜʏ: Caeser Cipher 🔑
+</p>
